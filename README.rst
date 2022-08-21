@@ -6,7 +6,8 @@ DnD
 Authors
 =============================================
 
-:Full name:
-    Selifonov Dmytro
+:Code: Selifonov Dmytro
+:Story: Husiev Anatolii
+
 
 :Email: dsma1999.ua@gmail.com
