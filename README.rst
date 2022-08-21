@@ -8,6 +8,7 @@ Authors
 
 :Code: Selifonov Dmytro
 :Story: Husiev Anatolii
+:Just a person: Husiev Andriy
 
 
 :Email: dsma1999.ua@gmail.com
